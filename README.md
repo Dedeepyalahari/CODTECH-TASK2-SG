@@ -8,6 +8,7 @@ Mentor:Sravani Gouni
 
 
 Overview of the Project:
+Project: STUDENT GRADE TRACKER
 This program calculates the grade of a student based on the marks entered by user in each subject. Program prints the grade based on this logic.
 If the average of marks is >= 80 then prints Grade ‘A’
 If the average is <80 and >=60 then prints Grade ‘B’
